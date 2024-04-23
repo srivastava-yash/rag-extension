@@ -1,0 +1,10 @@
+{
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "name": "RAG Chrome Extension",
+    "description": "RAG extension to chat with documents",
+    "action": {
+        "default_popup": "js/index.html",
+        "default_title": "RAG Chrome Extension"
+    }
+}
